@@ -29,11 +29,10 @@
 
 ---
 ## Assembly
-* Firt you need to soulder the components on the top and bottom side of the PCB (I preffer to soulder the small ones first then the big ones).
-* Then I put the cables for the 4 motors trough the small holes and soulder them to the PCB.
-* After that I put the motor into their motor mounts.
-* Then you put the top cap on.
-* And last you strap the battery with zipties to the body. 
+* First everything has to be souldered.
+* Then You can place the keys and keycaps in the hotswap sockets.
+* After that the code has to be uploaded to the XIAO.
+* Then after the coding you can place the assembly into the case and be good to go.
 ---
 ## BOM
 | Name | Purpose | Quantity | Total Cost (USD) | Distributor |
@@ -46,13 +45,11 @@
 | [Hotswap modules](https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234) | Makes the keys easier to remove | 1 | $8.80 | Gateron |
 
 
-**Total Estimated Cost: ~$73.77**
+**Total Estimated Cost: ~$123**
 
 ---
 ## Side note 
-* I will change the body of the drone. This one if only for demonstration and I think it wont be the strongest and will bend.
-* Also the motor mounts are not the best way to secure them and easiest to place after assembly step 3.
-* There will be firmware for a phone and the ESP, but I cant make it now due to the lack of materials to test it. I have added one that will be like a blueprint and I will modify it. 
+* I will change the code for the keyboard to a not AI  generated one. I generated it because I dont have the chips now to make it properly or test it. 
 ## Credits
 
 * Designed and built by *(Anton/ Anton-2785-bit)

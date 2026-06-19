@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"nRF52840","It connects to the PC and gets the signals from the switches",2,33.50,"https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html","Seeedstusio"
+"PCB","A place for all of the components",1,35.00,"","JLCPCB"
+"Keycaps","they make it easier to type",4,22.00,"https://www.aliexpress.com/item/1005010777462878.html?spm=a2g0o.cart.0.0.5fc938daFKpTu9&mp=1&pdp_npi=6%40dis%21USD%21USD+5.38%21USD+5.24%21%21USD+5.14%21%21%21%400b88ad2b17818201297496766e1137%2112000058270114990%21ct%21BG%217453050691%21%214%210%21","Aliexpress"
+"Diodes","stops the current in one direction",1,2.10,"https://www.aliexpress.com/item/1005007160563285.html?spm=a2g0o.cart.0.0.5fc938daFKpTu9&mp=1&pdp_npi=6%40dis%21USD%21USD+3.42%21USD+2.10%21%21USD+2.08%21%21%21%400b88ad2b17818200266584179e1137%2112000039653324544%21ct%21BG%217453050691%21%211%210%21","Aliexpress"
+"Switches","A switch",2,21.28,"https://www.gateron.com/products/gateron-ks-33-low-profile-red-silent-20-mechanical-switches-set?VariantsId=11584","Gateron"
+"Hotswap modules","Makes the keys easier to remove",1,8.80,"https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?VariantsId=10234","Gateron"
